@@ -1,4 +1,4 @@
-package lectures.parte2oop
+package lectures.part2oop
 
 object Objects { // we use objects for class level definition in scala
 

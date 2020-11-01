@@ -1,4 +1,4 @@
-package lectures.parte2oop
+package lectures.part2oop
 
 import playground.{Cinderella => Princess, PrinceCharming} //if we have a lot to import from playground, we use import playground._
                                 //alias for Cinderella, useful when we need to call two classes with the same name from different packages

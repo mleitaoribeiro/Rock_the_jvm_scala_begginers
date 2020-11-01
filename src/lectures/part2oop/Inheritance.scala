@@ -1,4 +1,4 @@
-package lectures.parte2oop
+package lectures.part2oop
 
 object Inheritance extends App {
 
